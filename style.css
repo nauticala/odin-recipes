@@ -1,3 +1,14 @@
-p {
-    color: red;
+* {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p,
+li {
+    font-size: small;
+}
+
+img {
+    width: 500px;
+    height: auto;
 }
